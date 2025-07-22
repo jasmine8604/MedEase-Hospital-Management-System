@@ -30,7 +30,13 @@ A comprehensive hospital management system built using Oracle SQL and PL/SQL. De
 - Track employees and hospital assignments
 
 ---
+## Key Procedures & Triggers
 
+- `Book_Appointment`** – PL/SQL procedure to automate appointment scheduling, checking both doctor and bed availability.
+- **`Check_Doctor_Availability`** – Trigger to prevent double-booking of doctors.
+- **`Assign_Bed_Automatically`** – Trigger to allocate beds upon booking based on room availability.
+
+  
 ## Sample Queries
 
 ```sql
@@ -40,8 +46,3 @@ INSERT INTO Patient VALUES ('P101', 'Aarav Gupta', 22, 'M', 'Delhi', '7770001112
 -- Book appointment
 EXEC Book_Appointment('P101', 'D201', TO_DATE('2024-06-01', 'YYYY-MM-DD'), 'OPD');
 
-## Key Procedures & Triggers
-
-- **`Book_Appointment`** – PL/SQL procedure to automate appointment scheduling, checking both doctor and bed availability.
-- **`Check_Doctor_Availability`** – Trigger to prevent double-booking of doctors.
-- **`Assign_Bed_Automatically`** – Trigger to allocate beds upon booking based on room availability.
