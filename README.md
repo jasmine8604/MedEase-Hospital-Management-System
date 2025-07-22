@@ -43,7 +43,7 @@ A comprehensive hospital management system built using Oracle SQL and PL/SQL. De
 ### 🏥 Hospital Table
 Shows the hospital database with ID, name, location, and contact number.
 
-![Hospital Table](images/hospitals.png)
+![Hospital Table](https://github.com/jasmine8604/MedEase-Hospital-Management-System/blob/main/hospital%20table.png)
 
 ---
 
