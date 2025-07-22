@@ -43,21 +43,21 @@ A comprehensive hospital management system built using Oracle SQL and PL/SQL. De
 ### 🏥 Hospital Table
 Shows the hospital database with ID, name, location, and contact number.
 
-![Hospital Table](images/hospital.png)
+![Hospital Table](hospital table.png.png)
 
 ---
 
 ### 👤 Patients Table
 Displays stored patient information such as name, age, gender, city, and phone.
 
-![Patients Table](images/patients.png)
+![Patients Table](patient table.png)
 
 ---
 
 ### 📅 Appointments Table
 Logs each appointment with doctor ID, patient ID, hospital ID, and date.
 
-![Appointments Table](images/appointments.png)
+![Appointments Table](appointment table.png)
 
 ## Sample Queries
 
