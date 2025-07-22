@@ -50,14 +50,14 @@ Shows the hospital database with ID, name, location, and contact number.
 ### 👤 Patients Table
 Displays stored patient information such as name, age, gender, city, and phone.
 
-![Patients Table](images/patients.png)
+![Patients Table](https://github.com/jasmine8604/MedEase-Hospital-Management-System/tree/main)
 
 ---
 
 ### 📅 Appointments Table
 Logs each appointment with doctor ID, patient ID, hospital ID, and date.
 
-![Appointments Table](images/appointments.png)
+![Appointments Table](https://github.com/jasmine8604/MedEase-Hospital-Management-System/tree/main)
 
 ## Sample Queries
 
