@@ -36,7 +36,29 @@ A comprehensive hospital management system built using Oracle SQL and PL/SQL. De
 - **`Check_Doctor_Availability`** – Trigger to prevent double-booking of doctors.
 - **`Assign_Bed_Automatically`** – Trigger to allocate beds upon booking based on room availability.
 
-  
+  ---
+
+## Screenshots
+
+### 🏥 Hospital Table
+Shows the hospital database with ID, name, location, and contact number.
+
+![Hospital Table](images/hospital.png)
+
+---
+
+### 👤 Patients Table
+Displays stored patient information such as name, age, gender, city, and phone.
+
+![Patients Table](images/patients.png)
+
+---
+
+### 📅 Appointments Table
+Logs each appointment with doctor ID, patient ID, hospital ID, and date.
+
+![Appointments Table](images/appointments.png)
+
 ## Sample Queries
 
 ```sql
