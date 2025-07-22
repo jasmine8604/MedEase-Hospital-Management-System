@@ -32,7 +32,7 @@ A comprehensive hospital management system built using Oracle SQL and PL/SQL. De
 ---
 ## Key Procedures & Triggers
 
-- `Book_Appointment`** – PL/SQL procedure to automate appointment scheduling, checking both doctor and bed availability.
+- **`Book_Appointment`** – PL/SQL procedure to automate appointment scheduling, checking both doctor and bed availability.
 - **`Check_Doctor_Availability`** – Trigger to prevent double-booking of doctors.
 - **`Assign_Bed_Automatically`** – Trigger to allocate beds upon booking based on room availability.
 
